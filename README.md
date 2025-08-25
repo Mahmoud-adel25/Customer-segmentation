@@ -287,83 +287,6 @@ Based on clustering results, the application provides:
 
 ---
 
-
-## ⚙️ Configuration
-
-### **Customizing Clustering Parameters**
-
-#### **K-Means Parameters**
-```python
-# In the application interface
-n_clusters = 5  # Number of clusters
-random_state = 42  # For reproducible results
-```
-
-#### **DBSCAN Parameters**
-```python
-eps = 0.5  # Neighborhood distance
-min_samples = 5  # Minimum points per cluster
-```
-
-### **Feature Selection**
-```python
-# Default features for clustering
-features = ['Annual Income (k$)', 'Spending Score (1-100)']
-
-# Custom feature selection
-features = ['Age', 'Annual Income (k$)', 'Spending Score (1-100)']
-```
-
-### **Visualization Settings**
-```python
-# Color schemes
-colors = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#96CEB4', '#FFEAA7']
-
-# Chart dimensions
-height = 450
-width = '100%'
-```
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-### **How to Contribute**
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Test thoroughly**
-5. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-6. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-7. **Open a Pull Request**
-
-### **Areas for Improvement**
-
-- **Additional Algorithms**: Hierarchical clustering, Gaussian Mixture Models
-- **Enhanced Visualizations**: 3D plots, interactive dashboards
-- **Advanced Analytics**: Customer lifetime value, churn prediction
-- **Performance Optimization**: Faster processing for large datasets
-- **Mobile Experience**: Improved mobile interface
-- **API Integration**: REST API for programmatic access
-
-### **Bug Reports**
-
-Please use the [GitHub Issues](https://github.com/yourusername/customer-segmentation/issues) page to report bugs or request features.
-
----
-
 ## 📝 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -398,4 +321,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Made with ❤️ using Streamlit and Python*
 
 </div>
+
 
