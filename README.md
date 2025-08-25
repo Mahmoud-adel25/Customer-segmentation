@@ -287,21 +287,6 @@ Based on clustering results, the application provides:
 
 ---
 
-## 🎨 Screenshots
-
-### **Main Dashboard**
-![Dashboard](https://via.placeholder.com/800x400/0F172A/E5E7EB?text=Main+Dashboard)
-
-### **Data Exploration**
-![Data Exploration](https://via.placeholder.com/800x400/0F172A/E5E7EB?text=Data+Exploration)
-
-### **Clustering Results**
-![Clustering](https://via.placeholder.com/800x400/0F172A/E5E7EB?text=Clustering+Results)
-
-### **Business Insights**
-![Insights](https://via.placeholder.com/800x400/0F172A/E5E7EB?text=Business+Insights)
-
----
 
 ## ⚙️ Configuration
 
@@ -413,3 +398,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Made with ❤️ using Streamlit and Python*
 
 </div>
+
