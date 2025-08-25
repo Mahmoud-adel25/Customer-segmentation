@@ -296,9 +296,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - ✅ **Modification**: Allowed
 - ✅ **Distribution**: Allowed
 - ✅ **Private Use**: Allowed
-- ❌ **Liability**: Limited
-- ❌ **Warranty**: None
-
 ---
 
 ## 🙏 Acknowledgments
@@ -321,5 +318,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Made with ❤️ using Streamlit and Python*
 
 </div>
+
 
 
