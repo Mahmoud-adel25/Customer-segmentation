@@ -20,22 +20,6 @@ The live application features:
 - 💡 **Business Insights** and actionable recommendations
 - 📱 **Responsive Design** that works on all devices
 
----
-
-## 📋 Table of Contents
-
-- [🎯 Project Overview](#-project-overview)
-- [✨ Key Features](#-key-features)
-- [📊 Dataset Information](#-dataset-information)
-- [🛠️ Technology Stack](#️-technology-stack)
-- [🚀 Quick Start](#-quick-start)
-- [📁 Project Structure](#-project-structure)
-- [🔍 Analysis Workflow](#-analysis-workflow)
-- [📈 Results & Insights](#-results--insights)
-- [🎨 Screenshots](#-screenshots)
-- [⚙️ Configuration](#️-configuration)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
 
 ---
 
@@ -318,6 +302,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Made with ❤️ using Streamlit and Python*
 
 </div>
+
 
 
 
